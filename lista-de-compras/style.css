@@ -1,0 +1,9 @@
+* {
+    padding: 0;
+}
+
+.lista {
+    box-sizing: border-box;
+    border: solid;
+    
+}
